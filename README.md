@@ -179,11 +179,9 @@ Distribuido bajo la licencia MIT. Consultá el archivo `LICENSE` para más infor
 
 ## 👤 Autor
 
-**Tu Nombre**
+**David Ardizzone**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU_WEB.com)
+
 
 ---
 
